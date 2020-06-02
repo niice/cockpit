@@ -3,6 +3,6 @@
 return [
 
     # cockpit session name
-    'app.name' => 'CMS',
+    'app.name' => 'Content',
 
 ];
