@@ -7,7 +7,7 @@
 .idea
 .vscode
 .env
-composer.lock
+# composer.lock
 package-lock.json
 /lib/**/doc/*
 /lib/**/docs/*
